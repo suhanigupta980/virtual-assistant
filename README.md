@@ -25,5 +25,7 @@ A web-based virtual assistant built entirely with frontend technologies. This as
 - **JavaScript**  
 - **Web APIs:**  
   - Web Speech API for voice recognition  
-  - SpeechSynthesis API for TTS  
+  - SpeechSynthesis API for TTS
+  - ![Screenshot (151)](https://github.com/user-attachments/assets/48e89e55-7c45-4c73-b6d8-3864f13b8913)
+
 
